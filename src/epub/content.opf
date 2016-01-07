@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/h-beam-piper/space-viking</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2016-01-07T00:46:59Z</dc:date>
+		<meta property="dcterms:modified">2016-01-07T00:46:59Z</meta>
 		<dc:rights>Public domain; see the Unlicense included with this file.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -25,15 +25,16 @@
 		<meta property="meta-auth" refines="#subject-2">www.gutenberg.org/ebooks/20728</meta>
 		<meta property="meta-auth" refines="#subject-3">www.gutenberg.org/ebooks/20728</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A tragic starfarer seeks revenge in this epic space opera.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;Initially serialized in &lt;i&gt;Analog&lt;/i&gt; magazine between 1962 and 1963, &lt;i&gt;Space Viking&lt;/i&gt; takes place after the events of H. Beam Piper&amp;rsquo;s earlier serialization, &lt;i&gt;The Cosmic Computer&lt;/i&gt;.  &lt;i&gt;Space Viking&lt;/i&gt; is a classic space opera: what begins as an interstellar tale of revenge turns into a swashbuckling adventure yarn, and finally into a meditation on empire-building and galactic governance with direct allusions to our modern history.&lt;/p&gt;
+			&lt;p&gt;This richness of content makes &lt;i&gt;Space Viking&lt;/i&gt; a unique read.  The reader begins by expecting a lighter sci-fi adventure, and early on the plot delivers; but as events transpire, the reader is deftly drawn away from action scenes and into a more nuanced discussion on governance and human nature.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/20728</dc:source>
-		<meta property="se:word-count">67750</meta>
+		<meta property="se:word-count">67758</meta>
 		<meta property="se:reading-ease.flesch">73.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Space_Viking</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-beam-piper_space-viking</meta>
