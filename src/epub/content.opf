@@ -39,6 +39,9 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008112008</meta>
 		<meta property="se:subject">Science Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Federation</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">A tragic starfarer seeks revenge in this epic space opera.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Initially serialized in &lt;i&gt;Analog&lt;/i&gt; magazine between 1962 and 1963, &lt;i&gt;Space Viking&lt;/i&gt; takes place after the events of &lt;a href="https://standardebooks.org/ebooks/h-beam-piper"&gt;&lt;abbr&gt;H.&lt;/abbr&gt; Beam Piper’s&lt;/a&gt; earlier serialization, &lt;i&gt;The Cosmic Computer&lt;/i&gt;. &lt;i&gt;Space Viking&lt;/i&gt; is a classic space opera: what begins as an interstellar tale of revenge turns into a swashbuckling adventure yarn, and finally into a meditation on empire-building and galactic governance with direct allusions to our modern history.&lt;/p&gt;
