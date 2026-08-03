@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/h-beam-piper/space-viking</dc:identifier>
 		<dc:date>2016-01-07T00:46:59Z</dc:date>
@@ -43,11 +43,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Federation</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">A tragic starfarer seeks revenge in this epic space opera.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A tragic starfarer seeks revenge in this epic space opera.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Initially serialized in &lt;i&gt;Analog&lt;/i&gt; magazine between 1962 and 1963, &lt;i&gt;Space Viking&lt;/i&gt; takes place after the events of &lt;a href="https://standardebooks.org/ebooks/h-beam-piper"&gt;&lt;abbr&gt;H.&lt;/abbr&gt; Beam Piper’s&lt;/a&gt; earlier serialization, &lt;i&gt;The Cosmic Computer&lt;/i&gt;. &lt;i&gt;Space Viking&lt;/i&gt; is a classic space opera: what begins as an interstellar tale of revenge turns into a swashbuckling adventure yarn, and finally into a meditation on empire-building and galactic governance with direct allusions to our modern history.&lt;/p&gt;
 			&lt;p&gt;This richness of content makes &lt;i&gt;Space Viking&lt;/i&gt; a unique read. The reader begins by expecting a lighter sci-fi adventure, and early on the plot delivers; but as events transpire, the reader is deftly drawn away from action scenes and into a more nuanced discussion on governance and human nature.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20728</dc:source>
 		<dc:source>https://archive.org/details/spaceviking00pipe</dc:source>
