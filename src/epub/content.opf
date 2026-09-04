@@ -31,8 +31,8 @@
 		<dc:title id="title">Space Viking</dc:title>
 		<meta property="file-as" refines="#title">Space Viking</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">Revenge -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Space warfare -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Revenge--Fiction</dc:subject>
+		<dc:subject id="subject-3">Space warfare--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
